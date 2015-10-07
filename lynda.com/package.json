@@ -1,0 +1,10 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "Trying out",
+  "main": "index.js",
+  "author": "Sree Harsha S.K",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}

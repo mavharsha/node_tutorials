@@ -1,0 +1,14 @@
+{
+  "name": "testmysql",
+  "version": "1.0.0",
+  "description": "testing node and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sree harsha sk",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.8.0"
+  }
+}
